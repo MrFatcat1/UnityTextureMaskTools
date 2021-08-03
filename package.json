@@ -1,0 +1,19 @@
+{
+"name": "com.unity.texturemasktools",
+"version":"1.0.0",
+"displayName": "Texture Mask Tools",
+"description": "Create HDRP Mask, Metallic Mask, etc.. from custom texture maps",
+"unity": "2019.1",
+"unityRelease":"0b5",
+"keywords": [
+	"texture",
+	"mask",
+	"hdrp"
+],
+"author": {
+	"name": "MrFatcat",
+	"email": "",
+	"url": "https://www.unity.com"
+},
+"type": "tool"
+}
